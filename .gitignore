@@ -13,3 +13,8 @@ hs_err_pid*
 /playground/nb/BroilerPlate/nbproject/private/
 /playground/lib/notTracked
 /playground/nb/BroilerPlate/build/
+/playground/nb/GoogleDrive/.nb-gradle/
+/playground/nb/GoogleDrive/build/
+/playground/nb/GoogleDriveNonGradle/nbproject/private/
+/playground/nb/GoogleDriveNonGradle/build/
+/playground/nb/GoogleDriveNonGradle/.credentials/drive-java-quickstart
